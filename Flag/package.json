@@ -7,6 +7,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
     "expo": "^18.0.4",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.2",
     "react": "^16.0.0-alpha.13",
     "react-native": "https://github.com/expo/react-native/archive/sdk-18.0.1.tar.gz",
     "react-navigation": "^1.0.0-beta.11"
